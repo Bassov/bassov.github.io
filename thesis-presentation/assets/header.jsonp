@@ -1,0 +1,52 @@
+local_header( {
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-57-16 8:6:7",
+  "loopSlideshow" : 0,
+  "filename" : "thesis-presentation.key",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "thesis-presentation.key",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "3546CCA1-2487-4F5B-87D6-78DAD00BB2CF",
+    "35110758-D05D-4A06-8C24-548301CD9C9D",
+    "8A9EFF39-55AD-44F2-9DD6-1095929AB0A1",
+    "371871A1-92D6-4D24-91F3-5E98463DCCFE",
+    "9931144F-2234-4F95-A159-15BC6376361B",
+    "77DC656E-97E1-44FF-B071-C7C354F03E4A",
+    "FBD7BA5A-FC19-466D-AE70-6135B8EAF82C",
+    "C34A81CB-E31B-48A6-A38C-F980CF189FB7",
+    "6D3AAE02-7085-4B1E-AD12-646AB817CAEC",
+    "B627CECF-5E67-4AEB-9EF5-540564C123F6",
+    "B715C711-3985-4488-BEE9-B6A1EF1D51A9",
+    "3D22312D-2FE6-489F-AACB-1543A37921ED",
+    "C880F894-2190-4D73-BFF9-DE28D8C35415",
+    "4E9C4872-5147-457B-A5C3-C5B2C1FD857C",
+    "7B8A8D0D-462E-4D8C-9DB5-22AC7A885259"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1024,
+  "slideHeight" : 768,
+  "slideCount" : 15,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "Monaco",
+    "Helvetica-Light",
+    "HelveticaNeue-Light",
+    "HelveticaNeue-Bold",
+    "HelveticaNeue",
+    "HelveticaNeue-Thin",
+    "Helvetica",
+    "HelveticaNeue-Italic",
+    "Menlo-Regular",
+    "GillSans",
+    "Times-Roman",
+    "HelveticaNeue-Medium"
+  ]
+} )
